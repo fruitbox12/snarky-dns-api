@@ -1,4 +1,4 @@
-# Proof Generation API
+# SnarkyDNS
 
 This API provides proof generation functionality for proving ownership of an RSA key for DNS validation without revealing the private key.
 
